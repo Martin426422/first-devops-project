@@ -1,2 +1,2 @@
 # First DevOps Project
-Proejkt do nauki praktyk DevOps 
+Projekt do nauki praktyk DevOps 
